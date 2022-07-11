@@ -1,4 +1,5 @@
 ## Table of contents
+
 - [Table of contents](#table-of-contents)
 - [Overview](#overview)
   - [Screenshot](#screenshot)
@@ -13,7 +14,7 @@
 
 ### Links
 
-- Live Site URL:
+- Live Site URL: [Click Here](https://counter-jsn.netlify.app/)
 
 ## Author
 
